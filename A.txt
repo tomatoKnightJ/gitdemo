@@ -1,3 +1,4 @@
-AAA
+:wq
+AA
 BBBB
 CCC
